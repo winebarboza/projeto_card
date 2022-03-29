@@ -8,6 +8,16 @@
 body{
     background-color: rgb(255, 255, 255);
 }
+#frase{
+    background: rgba(154, 208, 236, 0.5);
+    position: absolute;
+    left: 30%;
+    width: 524px;
+    height: 49px;
+    border: none;
+    border-radius: 8px;
+
+}
 #rectangle{
     background:#1572A1;
     width: 100%;
